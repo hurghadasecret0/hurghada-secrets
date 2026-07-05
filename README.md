@@ -1,2 +1,2 @@
 # hurghada-secrets
-Hurghada Secrets is a trusted travel platform dedicated to helping visitors explore Egypt's Red Sea coast. We publish detailed guides, excursion reviews, boat trip recommendations, travel tips, and local insights to help travelers plan unforgettable experiences in Hurghada with confidence.
+Explore the official <a href="https://hurghadasecrets.com/">Hurghada Secrets travel guide</a> for expert advice on planning your Red Sea holiday. Discover the best <a href="https://hurghadasecrets.com/hurghada-excursions/">Hurghada excursions</a>, from snorkeling and diving to desert safaris, and browse the top-rated <a href="https://hurghadasecrets.com/hurghada-excursions/boat-trips/">boat trips in Hurghada</a> for unforgettable experiences on the Red Sea.
